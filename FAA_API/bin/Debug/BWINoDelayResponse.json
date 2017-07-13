@@ -1,0 +1,29 @@
+{  "delay": "false",
+  "IATA": "BWI",
+  "state": "Maryland",
+  "name": "Baltimore-Washington International",
+  "weather": {    
+	"visibility": 10.0,
+    "weather": "Mostly Cloudy",
+    "meta": {      
+		"credit": "NOAA's National Weather Service",
+		"updated": "5:54 AM Local",
+		"url": "http://weather.gov/"    
+		},
+	"temp": "62.0 F (16.7 C)",
+    "wind": "North at 0.0mph"
+	},
+   "ICAO": "KBWI",
+   "city": "Baltimore",
+   "status": {    
+	"reason": "No known delays for this airport.",
+    "closureBegin": "",
+    "endTime": "",
+    "minDelay": "",
+    "avgDelay": "",
+    "maxDelay": "",
+    "closureEnd": "",
+    "trend": "",
+    "type": ""
+   }
+}

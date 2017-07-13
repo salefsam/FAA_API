@@ -1,0 +1,8 @@
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\bin\Debug\FAA_API.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\obj\Debug\FAA_API.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\bin\Debug\FAA_API.exe
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\bin\Debug\FAA_API.pdb
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\obj\Debug\FAA_API.exe
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\obj\Debug\FAA_API.pdb
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\bin\Debug\Newtonsoft.Json.dll
+c:\users\sam\documents\visual studio 2013\Projects\FAA_API\FAA_API\bin\Debug\Newtonsoft.Json.xml
